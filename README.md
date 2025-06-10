@@ -2,7 +2,7 @@
 Dataset komentar publik Instagram mengenai kasus Fantasi Sedarah untuk analisis sentimen.
 # Dataset Komentar Publik Instagram Mengenai Kasus 'Fantasi Sedarah'
 
-[cite_start]Dataset ini berisi 12.549 komentar publik yang dikumpulkan dari unggahan akun media Instagram "Folkative" yang membahas tentang grup kontroversial 'Fantasi Sedarah'. Data ini dikumpulkan untuk tujuan penelitian analisis sentimen mengenai respons dan kepekaan masyarakat digital Indonesia terhadap konten yang melanggar norma etika dan moral.
+Dataset ini berisi 12.549 komentar publik yang dikumpulkan dari unggahan akun media Instagram "Folkative" yang membahas tentang grup kontroversial 'Fantasi Sedarah'. Data ini dikumpulkan untuk tujuan penelitian analisis sentimen mengenai respons dan kepekaan masyarakat digital Indonesia terhadap konten yang melanggar norma etika dan moral.
 
 ## Detail Dataset
 * **Sumber Data**: Kolom komentar unggahan akun Instagram 'Folkative' 
